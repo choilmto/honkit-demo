@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/choilmto/honkit-demo/issues"
   },
-  "homepage": "https://github.com/choilmto/honkit-demo#readme"
+  "homepage": "https://github.com/choilmto/honkit-demo#readme",
+  "devDependencies": {
+    "honkit": "^3.6.6"
+  }
 }
