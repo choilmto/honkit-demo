@@ -1,0 +1,1 @@
+This section is for notes that fall outside of the Process “cycle” defined by the steps detailed later.
