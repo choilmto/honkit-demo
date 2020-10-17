@@ -1,17 +1,7 @@
-General Notes
+# Section I: Mentorship Team Process
 
-Step 1
+## General Notes
 
-Step 2
+This section is for notes that fall outside of the Process “cycle” defined by the steps detailed later.
 
-Step 3
-
-Step 4
-
-Step 5
-
-Step 6
-
-Step 7
-
-Step 8
+* The MT currently meets once every week, whereas most Teams only meet every other week. The aim for this is to more quickly solidify the Process for the Program into something that works reasonably well. For now, all major milestones or steps of the Process align with the MT meetings. In the future, we may have the resources to move the Process outside of the meetings for a more timely and fluid approach. At that point the MT meetings would probably return to being scheduled every other week as in most Teams.
