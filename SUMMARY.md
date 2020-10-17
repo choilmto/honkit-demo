@@ -26,3 +26,13 @@
   * [Step 6: Initial Applicant Filtering (Week 6)](SectionI/InitialApplicantFiltering.md)
   * [Step 7: Selection Process (Week 7)](SectionI/SelectionProcess.md)
   * [Step 8: Completion Process (Week 8)](SectionI/CompletionProcess.md)
+
+  ----
+
+* Section II: Mentor Guide
+  * [Introduction](SectionII/Introduction.md)
+  * [Process Overview](SectionII/ProcessOverview.md)
+    * [Phase 1: Planning](SectionII/ProcessOverview/Planning.md)
+    * [Phase 2: Acquisition](SectionII/ProcessOverview/Acquisition.md)
+    * [Phase 3: Onboarding](SectionII/ProcessOverview/Onboarding.md)
+    * [Phase 4: Acceptance](SectionII/ProcessOverview/Acceptance.md)
