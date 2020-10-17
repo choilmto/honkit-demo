@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f311d86-2f04-43ad-8e89-2cff682324cb/deploy-status)](https://app.netlify.com/sites/honkit-demo/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f311d86-2f04-43ad-8e89-2cff682324cb/deploy-status)](https://honkit-demo.netlify.app/)
 
 # honkit Demo
 
