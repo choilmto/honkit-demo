@@ -16,7 +16,7 @@
 
 ----
 
-* [Section I: Mentorship Team Process](SectionI/README.md)
+* Section I: Mentorship Team Process
   * [General Notes](SectionI/GeneralNotes.md)
   * [Step 1: Mentor Outreach (Week 1)](SectionI/MentorOutreach.md)
   * [Step 2: Opening Dialogue (Week 2)](SectionI/OpeningDialogue.md)
