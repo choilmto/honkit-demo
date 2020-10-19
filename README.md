@@ -7,4 +7,4 @@
 * The guide is easily accessible.
 * Particular sections of the guide can be linked to and shared.
 
-**Note**: this particular README is not used by honkit in the build.
+**Note**: this particular README is not used by honkit in the build. `docs` folder contains the markdown files used by honkit in the build step as configured by `book.json`.
